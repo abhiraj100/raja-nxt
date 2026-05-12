@@ -50,7 +50,7 @@ export default function Contact() {
     {
       icon: <MapPin size={22} />,
       title: "Visit Store",
-      lines: ["Boring Road, Patna", "Come say hello!"],
+      lines: ["Thana Road, Daltonganj", "Come say hello!"],
       action: { label: "Get Directions", href: "/location" },
       color: "bg-rose-50 text-rose-600",
     },

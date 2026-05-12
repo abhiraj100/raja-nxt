@@ -8,19 +8,19 @@ export const CATEGORIES = [
 export const STORE_INFO = {
   name: "Raja Nxt",
   tagline: "Where Every Woman Shines",
-  description: "Patna's premier destination for women's fashion — ethnic, western & everything in between.",
-  phone: "+91 98765 43210",
+  description: "Daltonganj's premier destination for women's fashion — ethnic, western & everything in between.",
+  phone: "+91 8877085761",
   email: "hello@rajanxt.in",
-  address: "Shop No. 12, Ashiana Mall, Boring Road, Patna, Bihar – 800001",
+  address: "Shop No. 12, Near Alankar Jwellers, Thana Road, Daltonganj, Jharkhand – 822101",
   hours: [
-    { day: "Monday – Friday", time: "10:00 AM – 8:30 PM" },
+    { day: "Monday – Friday", time: "10:00 AM – 9:00 PM" },
     { day: "Saturday",        time: "9:30 AM – 9:00 PM" },
     { day: "Sunday",          time: "11:00 AM – 7:00 PM" },
   ],
   social: {
     instagram: "#",
     facebook: "#",
-    whatsapp: "https://wa.me/919876543210",
+    whatsapp: "https://wa.me/918877085761",
   },
 };
 

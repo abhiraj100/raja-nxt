@@ -10,11 +10,11 @@ const HOW_TO_REACH = [
 ];
 
 const NEARBY = [
-  { name: "Ashiana Mall (Our Location)", dist: "0 m" },
-  { name: "Patna Junction Railway Station", dist: "4 km" },
-  { name: "Patna Airport (Jay Prakash Narayan)", dist: "6 km" },
-  { name: "Gandhi Maidan", dist: "3.5 km" },
-  { name: "Buddha Smriti Park", dist: "4.2 km" },
+  { name: "Near Alankar Jwellers", dist: "0 m" },
+  { name: "Daltonganj Junction Railway Station", dist: "1.3 km" },
+  { name: "Daltonganj Bus Stand", dist: "0.5 km" },
+  { name: "Gandhi Maidan", dist: "1.1 km" },
+  { name: "Sahar Thana", dist: "0.1 km" },
 ];
 
 export default function Location() {
@@ -47,10 +47,10 @@ export default function Location() {
                 </div>
                 <div className="text-center">
                   <p className="font-display text-lg font-semibold text-charcoal">Raja Nxt</p>
-                  <p className="text-sm text-stone-500">Ashiana Mall, Boring Road, Patna</p>
+                  <p className="text-sm text-stone-500">Near Alankar Jwellers, Thana Road, Daltonganj</p>
                 </div>
                 <a
-                  href={`https://maps.google.com/?q=Ashiana+Mall+Boring+Road+Patna+Bihar`}
+                  href={`https://maps.google.com/?q=Near+Alankar+Jwellers+Thana+Road+Daltonganj`}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2 bg-rose-600 text-white text-sm font-semibold px-5 py-2.5 rounded-full hover:bg-rose-700 transition-colors shadow-md"

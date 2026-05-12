@@ -91,7 +91,7 @@ export default function Footer() {
         <div className="border-t border-white/10 mt-12 pt-8 flex flex-col sm:flex-row justify-between items-center gap-3">
           <p className="text-stone-500 text-xs">© {new Date().getFullYear()} Raja Nxt. All rights reserved.</p>
           <p className="text-stone-500 text-xs flex items-center gap-1.5">
-            Made with <Heart size={11} className="text-rose-400 fill-rose-400" /> for women of Bihar
+            Made with <Heart size={11} className="text-rose-400 fill-rose-400" /> for women of Jharkhand
           </p>
         </div>
       </div>
